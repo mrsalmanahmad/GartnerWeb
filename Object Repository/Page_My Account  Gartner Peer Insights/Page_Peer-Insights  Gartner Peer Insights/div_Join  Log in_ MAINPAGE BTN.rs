@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Join  Log in_ MAINPAGE BTN</name>
+   <tag></tag>
+   <elementGuidId>5f56cde7-f391-4994-8069-45be444c211b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div[2]/div[1]/div/div/div/nav/div[3]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf19c0cd-b184-46a4-9468-c2791fa5c4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-button</value>
+      <webElementGuid>042f7ee2-cb97-4f11-b285-4d6ca5c9fce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join / Log in</value>
+      <webElementGuid>f7f6edb4-6be4-45d4-9dd2-742365eeced6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pi-unification-header-main&quot;)/div[1]/nav[@class=&quot;universal-navbar&quot;]/div[3]/div[@class=&quot;profile-container&quot;]/div[@class=&quot;login-button&quot;]</value>
+      <webElementGuid>c51991d4-a7d3-492d-aa09-e791886a5b0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pi-unification-header-main']/div/nav/div[3]/div[2]/div[2]</value>
+      <webElementGuid>9385d99f-beca-4116-b5ce-4e2ebc9084ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMING SOON!'])[2]/following::div[3]</value>
+      <webElementGuid>d6e62ce5-66a5-4e6a-937e-d9b522e12d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='©  2022 Gartner, Inc. and/or its affiliates.All rights reserved.'])[1]/following::div[8]</value>
+      <webElementGuid>de8703c1-5c6c-4a39-b9b7-dbc9958c5b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Join / Log in']/parent::*</value>
+      <webElementGuid>9af1d0d5-65ce-4b48-9fa1-e2ef1319793a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]</value>
+      <webElementGuid>f8141047-b087-4826-83ad-d3da243edef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Join / Log in' or . = 'Join / Log in')]</value>
+      <webElementGuid>030a7b00-eed5-4e64-9c61-9365608bec6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

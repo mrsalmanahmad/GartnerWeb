@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log in</name>
+   <tag></tag>
+   <elementGuidId>c7b0b2e2-804e-426d-a960-a24174c8e662</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.modalFooter_footerSecondaryInfoLink__3xAlC > a.uxdLink_uxdLinkPrimary__GPfsE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;__next&quot;]/div/div/div[2]/div/div/div/div[3]/div/div/h2/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2497b852-68b9-4961-9e48-0c430c363b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>7b7ac3ef-10fb-4027-9978-74dd41c674e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uxdLink_uxdLinkPrimary__GPfsE</value>
+      <webElementGuid>72bfc0d7-cb28-4690-ba07-b96a17c6e7e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-interaction</name>
+      <type>Main</type>
+      <value>pi-user-app-bottom-login-link</value>
+      <webElementGuid>98783252-078a-4e59-b1f4-45534211d056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-referrer</name>
+      <type>Main</type>
+      <value>Community</value>
+      <webElementGuid>36986de9-cf7d-4c14-a82a-b3f99e5663ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>5d9e207d-5131-4759-b1d0-f0ef6a335017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;two-column-template_container__ojO5x two-col-layout&quot;]/div[@class=&quot;two-column-template_content__Brx6b&quot;]/div[@class=&quot;two-column-template_col__NJy-Z&quot;]/div[1]/div[@class=&quot;content-body&quot;]/div[@class=&quot;modalFooter_modalFooterContainer__5PPWk&quot;]/div[@class=&quot;modalFooter_modalFooter__1hCkB flex-row-wrap&quot;]/div[@class=&quot;flex-col-sm-12&quot;]/h2[1]/span[@class=&quot;modalFooter_footerSecondaryInfoLink__3xAlC&quot;]/a[@class=&quot;uxdLink_uxdLinkPrimary__GPfsE&quot;]</value>
+      <webElementGuid>7f9344d9-975a-447c-9167-d2a6571441ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div[2]/div/div/div[3]/div/div/h2/span/a</value>
+      <webElementGuid>54ff03fc-7201-42c4-99ca-a3a8f7076fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Log in')])[2]</value>
+      <webElementGuid>93cb78ea-1a8f-41db-a73c-5663a12ecb68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::a[2]</value>
+      <webElementGuid>ebd8ea76-a76b-457e-913a-1982ca204fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community Guidelines'])[3]/preceding::a[4]</value>
+      <webElementGuid>545f6b9d-c48a-4c98-a5a7-671fce37c62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>e0435854-7620-40fb-94ad-0fd385a25ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[44]</value>
+      <webElementGuid>163d72cf-d00f-4bd8-815d-45aa15530719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>22fd14fc-6be3-4ff6-a9c6-5584cc5b84a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>730486f8-4c45-4080-87b7-84d7985880ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ask a Question</name>
+   <tag></tag>
+   <elementGuidId>008a8b5b-5fc9-4620-a57f-4022312b5f28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.r-deyg0r.r-ubezar.r-majxgm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e6bfb86-3dee-49ad-8453-70f6f14962d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataelement</name>
+      <type>Main</type>
+      <value>Text</value>
+      <webElementGuid>3a9293d9-c6f2-4b51-bfcf-b0a5d1b84f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>datasourcefile</name>
+      <type>Main</type>
+      <value>index.js</value>
+      <webElementGuid>855a7cb7-fe93-451f-9d24-e10d2ecba5b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>0b8b311e-f8c4-4a97-9fae-4865769f3dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-deyg0r r-ubezar r-majxgm</value>
+      <webElementGuid>37c3b6e5-55df-4d5f-b36b-85613afb72eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ask a Question | </value>
+      <webElementGuid>1e1aabf2-0ced-4b67-a826-7d948f15083e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-18u37iz r-1777fci&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1jj8364 r-lchren r-1yt7n81 r-1yxctt0&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-11yh6sk r-1lw8n4j&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1afez2q r-z2wwpe r-6koalj r-18u37iz r-qn3fzs r-puj83k r-11g3r6m r-1ygmrgt r-1lw8n4j&quot;]/div[@class=&quot;css-1dbjc4n r-42olwf r-6koalj r-eqz5dr r-1777fci r-b5h31w&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-eafdt9 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-901oao r-deyg0r r-ubezar r-majxgm&quot;]</value>
+      <webElementGuid>f397449b-1e3e-4f35-bbed-83e3b99621af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>6739554e-5687-40b2-aee7-ebd1f447f1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome, Salman.'])[1]/following::div[4]</value>
+      <webElementGuid>9427c553-e60a-4fff-8cda-560f04c21460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>2de56454-8ed4-476f-830a-3ba78ee7cc3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ask a Question | ' or . = 'Ask a Question | ')]</value>
+      <webElementGuid>35ad1eb2-94a1-489c-ac24-d07ea0e65f7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

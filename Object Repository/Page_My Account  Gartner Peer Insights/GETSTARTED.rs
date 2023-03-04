@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GETSTARTED</name>
+   <tag></tag>
+   <elementGuidId>14189e4c-f2b9-4185-bad5-6e101b863b05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;react-app&quot;]/div/div/div/div/div/div[2]/div[2]/div[1]/div/div/div[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>GETSTARTED</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;react-app&quot;]/div/div/div/div/div/div[2]/div[2]/div[1]/div/div/div[4]/div/div</value>
+      <webElementGuid>03280cbe-874d-42d3-b00c-69ff5454a4a1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
