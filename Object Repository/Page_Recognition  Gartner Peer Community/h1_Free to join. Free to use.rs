@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Free to join. Free to use</name>
+   <tag></tag>
+   <elementGuidId>9ee11d5b-91f8-4b69-a53d-8dc5964bc119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>40cb3167-d46d-4e9b-b12d-d4bca2fc8e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Free to join. Free to use.</value>
+      <webElementGuid>67af975f-51a1-432f-a187-7e125df4cd42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;template_container__Sf95V&quot;]/div[@class=&quot;template_content__snGAb&quot;]/div[1]/div[@class=&quot;content-body&quot;]/div[@class=&quot;modalHeader_modalHeaderContainer__34Aoi&quot;]/div[@class=&quot;modalHeader_modalHeader__3hS3m&quot;]/h1[1]</value>
+      <webElementGuid>fc575b43-e4a1-4ed4-924c-756d3a254501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div/div/div/div/h1</value>
+      <webElementGuid>a79752e3-1ed4-4187-9c96-4c2d584250f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ab8d555e-023c-437e-9b95-151532a4f544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[1]/preceding::h1[1]</value>
+      <webElementGuid>27a783bc-087a-499e-85b2-f13006d5b97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Free to join. Free to use.']/parent::*</value>
+      <webElementGuid>1345ad89-a469-4f94-b441-2f651fa7527a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>1caa3923-282b-4085-9f03-d0305546c095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Free to join. Free to use.' or . = 'Free to join. Free to use.')]</value>
+      <webElementGuid>17585d89-4d7a-48b1-bb5b-e3e36cfbe87e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

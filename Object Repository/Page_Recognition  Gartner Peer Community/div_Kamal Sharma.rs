@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kamal Sharma</name>
+   <tag></tag>
+   <elementGuidId>4e196b79-9390-424c-834f-f8ef24b762ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div[4]/div[3]/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee7198dd-a462-4f3e-9110-861d357c568c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataelement</name>
+      <type>Main</type>
+      <value>Text</value>
+      <webElementGuid>e5af2322-d8f8-4f29-81a4-be759133f1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>datasourcefile</name>
+      <type>Main</type>
+      <value>index.web.js</value>
+      <webElementGuid>bc77ee2b-93d0-4f16-9c4b-836a30832573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>1289564b-836f-45ff-ab51-82fd52ba65cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-cens5h r-deyg0r</value>
+      <webElementGuid>234fb295-f6a7-421f-ac90-e2a27c97fa24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kamal Sharma</value>
+      <webElementGuid>38c1572c-450b-4fc4-a692-516f14a7060c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1jj8364 r-lchren r-1yxctt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1niwhzg&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-13awgt0 r-1udh08x r-1otgn73 r-eafdt9 r-1i6wzkk r-lrvibr r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-6koalj r-eqz5dr r-1otgn73 r-eafdt9 r-1i6wzkk r-lrvibr r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-13qz1uu&quot;]/div[@class=&quot;css-901oao css-cens5h r-deyg0r&quot;]</value>
+      <webElementGuid>9ec5879c-8eda-4c7b-88b0-35f6259d90ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div[4]/div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>1d593f12-8b19-474d-b76d-2658de8ece1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Director from large Dow component company'])[1]/following::div[14]</value>
+      <webElementGuid>457adc31-0884-44ec-a764-f3279463688a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chris Oehlerking'])[1]/following::div[16]</value>
+      <webElementGuid>77991a6c-3c3f-4599-bc57-8e0b2dd2b5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIO at Jay Kuling Group'])[1]/preceding::div[2]</value>
+      <webElementGuid>d842a274-a425-4715-bcca-873f18bcaef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the recognition you deserve'])[1]/preceding::div[5]</value>
+      <webElementGuid>706089fe-0335-4090-85f8-bc76389a3b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kamal Sharma']/parent::*</value>
+      <webElementGuid>441817b4-c07f-46cc-9b7e-3aa709dfa6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>9eae96bc-b51e-43e0-80b8-bf564db8e100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kamal Sharma' or . = 'Kamal Sharma')]</value>
+      <webElementGuid>bc0e5e6e-7bd3-4aa2-8235-251c9feed7a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

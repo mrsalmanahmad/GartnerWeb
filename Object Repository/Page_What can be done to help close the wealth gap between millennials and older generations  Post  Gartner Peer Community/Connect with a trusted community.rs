@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Connect with a trusted community</name>
+   <tag></tag>
+   <elementGuidId>903d63c2-5df9-45f2-8aa6-383c02eb0a0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-14lw9ot.r-1rnoaur > div.css-1dbjc4n > div.css-1dbjc4n > div.css-1dbjc4n > div.css-901oao</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>792cf8ee-b103-4cc0-a3fc-b4ae622d0e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataelement</name>
+      <type>Main</type>
+      <value>Text</value>
+      <webElementGuid>43fdb556-3669-416a-8d4d-7cdd6f9df10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>datasourcefile</name>
+      <type>Main</type>
+      <value>SignupPrompt.js</value>
+      <webElementGuid>278693fd-a846-468c-87ef-6ea923cbad5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>8354cdb7-dbd5-4501-a678-14be1383568a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao</value>
+      <webElementGuid>aa97b411-b5cd-4b14-9203-1575b73da6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Connect with a trusted community of your peers</value>
+      <webElementGuid>86be77ee-0f32-4f47-a1fa-3eb705e56e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1d2f490 r-u8s1d r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-11yh6sk r-97e31f r-bv2aro r-hxflta r-10xqauy r-1xcajam&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1rnoaur&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-901oao&quot;]</value>
+      <webElementGuid>5953906a-030d-4afe-a12c-091e94a4fd48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div</value>
+      <webElementGuid>b0bc4917-69e7-4ae3-ad97-21e3d1ffd9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Connect with a trusted community of your peers']/parent::*</value>
+      <webElementGuid>6dba9093-422d-4c45-a648-0ef10df9be79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div</value>
+      <webElementGuid>4348001f-41cc-4d45-91a6-6488a1d1931b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Connect with a trusted community of your peers' or . = 'Connect with a trusted community of your peers')]</value>
+      <webElementGuid>f83356f3-67b7-42c3-a4d3-50e18fd0ba24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

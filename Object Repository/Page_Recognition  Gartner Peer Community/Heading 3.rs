@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Heading 3</name>
+   <tag></tag>
+   <elementGuidId>dafb2cac-7937-4e41-a13f-2002913e6a1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div[5]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f3eea82-a743-472d-925f-d683093e5a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataelement</name>
+      <type>Main</type>
+      <value>Text</value>
+      <webElementGuid>f93c2cb6-c561-43e7-a097-e7b9dd4e7191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>datasourcefile</name>
+      <type>Main</type>
+      <value>index.web.js</value>
+      <webElementGuid>7bd54920-0dc5-48d2-9fed-6f3eff8a4f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>11d3d149-48bb-489c-b1e6-18c00d66db37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-cens5h r-jwli3a</value>
+      <webElementGuid>fe57fc67-6118-41e2-8a8a-dc6e586963fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interact with Andrew Kagan, Chris Oehlerking and Kamal Sharma. Join today.</value>
+      <webElementGuid>6465b4d6-cf19-4575-beff-c01c447a7ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1jj8364 r-lchren r-1yxctt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1niwhzg&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1777fci r-1udh08x r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-901oao css-cens5h r-jwli3a&quot;]</value>
+      <webElementGuid>2fa7d6e9-7874-4185-9d81-f61201135452</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div[5]/div/div/div/div/div[2]</value>
+      <webElementGuid>1975cf5f-44f5-4794-b327-99923a56eeb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the recognition you deserve'])[1]/following::div[1]</value>
+      <webElementGuid>ec9a0f81-5cf7-492e-bf1d-d1818fee1281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIO at Jay Kuling Group'])[1]/following::div[9]</value>
+      <webElementGuid>771fdedc-acdf-4b5b-ba8a-ce2e5eb231ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create account'])[1]/preceding::div[1]</value>
+      <webElementGuid>5effb7d7-d5bd-4cd3-bf86-274aa2170993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previously Recognized Executives'])[1]/preceding::div[5]</value>
+      <webElementGuid>df15719a-517a-444b-8460-e5952445630b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Interact with Andrew Kagan, Chris Oehlerking and Kamal Sharma. Join today.']/parent::*</value>
+      <webElementGuid>eec82ef0-33ed-4d8b-b2dd-f3a33d2cca25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]</value>
+      <webElementGuid>0f041ed6-089e-4beb-814e-7568c92dee45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Interact with Andrew Kagan, Chris Oehlerking and Kamal Sharma. Join today.' or . = 'Interact with Andrew Kagan, Chris Oehlerking and Kamal Sharma. Join today.')]</value>
+      <webElementGuid>014f62a2-3288-407e-a922-1d4c4adb6a8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

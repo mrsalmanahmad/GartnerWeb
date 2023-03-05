@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Andrew Kagan</name>
+   <tag></tag>
+   <elementGuidId>c6df8ee7-4529-43b5-9187-c8db00f81b13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-13qz1uu > div.css-901oao.css-cens5h.r-deyg0r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div[4]/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>27561273-f0f5-4408-bc0b-dba20eacd7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataelement</name>
+      <type>Main</type>
+      <value>Text</value>
+      <webElementGuid>6a0f0e33-3c22-44d5-bcbf-848c3bedad7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>datasourcefile</name>
+      <type>Main</type>
+      <value>index.web.js</value>
+      <webElementGuid>18c6cb4a-696d-417d-86c1-1e010d2d0cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>dc0cbb97-4da0-4dcf-a846-c8f78d260f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-cens5h r-deyg0r</value>
+      <webElementGuid>ad4d5904-41ed-4a12-855e-5317d4a8110e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Andrew Kagan</value>
+      <webElementGuid>20311933-9d04-41fc-8f1e-f509d0779fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1jj8364 r-lchren r-1yxctt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1niwhzg&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-13awgt0 r-1udh08x r-1otgn73 r-eafdt9 r-1i6wzkk r-lrvibr r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-6koalj r-eqz5dr r-1otgn73 r-eafdt9 r-1i6wzkk r-lrvibr r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-13qz1uu&quot;]/div[@class=&quot;css-901oao css-cens5h r-deyg0r&quot;]</value>
+      <webElementGuid>efee8316-d507-4b51-a3cf-30c3372ce510</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div[4]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>c064161c-e01f-4a40-9e8f-c6284b5bec44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications &amp; Platforms'])[1]/following::div[13]</value>
+      <webElementGuid>4d7239a2-29ed-4a92-8104-b0c44eb20c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='February 2023'])[1]/following::div[17]</value>
+      <webElementGuid>40422322-923e-4c4f-84a8-ad62d5da9fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CTO at Planet Technologies'])[1]/preceding::div[2]</value>
+      <webElementGuid>9d6143eb-6f24-41ed-bc02-88e9bf950160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chris Oehlerking'])[1]/preceding::div[10]</value>
+      <webElementGuid>e341c233-7f89-461d-b0aa-80b8442395fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Andrew Kagan']/parent::*</value>
+      <webElementGuid>67fc89a5-6e70-4190-8d0a-0759d65b6cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>5f9c373a-51c6-498d-b875-565a71e2e85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Andrew Kagan' or . = 'Andrew Kagan')]</value>
+      <webElementGuid>cc1669f1-557f-426b-a77d-9829f0a0dcdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

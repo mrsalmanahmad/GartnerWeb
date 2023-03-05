@@ -19,4 +19,19 @@
       <initValue>'pakistanisno1'</initValue>
       <name>Password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.gartner.com/peer-community/post/done-to-help-close-wealth-gap-between-millennials-older-generations'</initValue>
+      <name>PostQuestionPageURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.gartner.com/peer-community/poll/do-you-have-remote-employees-on-your-team-onboarding'</initValue>
+      <name>PollPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.gartner.com/peer-community/recognition'</initValue>
+      <name>RecognitionPageUrl</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

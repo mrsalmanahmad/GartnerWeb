@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Share_Link_PopupHeading</name>
+   <tag></tag>
+   <elementGuidId>1e7fb4c0-3f29-4666-b6a0-6337035fda93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a28489bf-9e55-469a-aab1-898b9ba62172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Share a link to this insight via:</value>
+      <webElementGuid>2ca208db-e301-4059-b7af-d3beb2863be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1d2f490 r-u8s1d r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-z2wwpe r-11yh6sk r-97e31f r-bv2aro r-hxflta r-10xqauy r-1xcajam&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1rnoaur&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[1]/span[1]</value>
+      <webElementGuid>d829cde9-2781-4d50-802e-34705069908e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/span</value>
+      <webElementGuid>84ff63bc-ef5d-44a9-addc-c4c05690c62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join / Sign In'])[1]/preceding::span[1]</value>
+      <webElementGuid>7ea5dcc3-81e4-4081-afc7-0e2b53891dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISCUSSION'])[1]/preceding::span[1]</value>
+      <webElementGuid>0cfc3948-4640-4302-825a-4feecda5d307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Share a link to this insight via:']/parent::*</value>
+      <webElementGuid>5e7788d9-e6e3-40e0-9255-81d690af3fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>a7012167-b82c-49d3-b5d4-ff550e58913f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Share a link to this insight via:' or . = 'Share a link to this insight via:')]</value>
+      <webElementGuid>abe577aa-b04b-4f23-8351-4a5bbb28c78c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

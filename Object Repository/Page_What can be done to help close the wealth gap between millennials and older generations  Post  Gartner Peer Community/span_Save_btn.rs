@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save_btn</name>
+   <tag></tag>
+   <elementGuidId>33f5a45c-5e57-4270-b9e5-d5c26d2a5378</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/button[4]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b705dd2f-f114-4a6d-b563-3db62edd957a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>bab50a65-9a32-47f2-b2db-201d9bdb88b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-1niwhzg r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1jj8364 r-lchren r-1yxctt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1mnahxq&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-ve2vwf r-1ljd8xs r-z2wwpe r-13l2t4g r-rs99b7 r-1777fci r-1cad53l r-1mnahxq r-nsbfu8 r-1l7z4oj r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1mnahxq&quot;]/div[2]/button[4]/div[1]/div[1]/span[1]</value>
+      <webElementGuid>ae65505a-247e-4da3-aae6-058e3e4cd6cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/button[4]/div/div/span</value>
+      <webElementGuid>df5d36bf-b6c4-4371-b29d-958c3b26bdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/following::span[1]</value>
+      <webElementGuid>abe57dab-7bd4-4355-adab-fe68bfe10c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::span[2]</value>
+      <webElementGuid>360bcd05-17a0-4915-87ba-3f3951e7683e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CEO'])[1]/preceding::span[1]</value>
+      <webElementGuid>10283d8d-9e34-4743-97b2-c39e366403b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance (non-banking) | 2 - 10 employees'])[1]/preceding::span[1]</value>
+      <webElementGuid>6754449b-9927-4fb1-8248-4d00d29a7cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>a2a1b3dd-aa16-4b25-a0f7-81c5ffc7ee00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/div/div/span</value>
+      <webElementGuid>d7cdfea0-d911-45ef-9f7f-3f36ac728f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>987ee9ea-46b5-4a1b-8cfa-cf18905a67f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

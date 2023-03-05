@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Customize your feed to see relevant peer discussions</name>
+   <tag></tag>
+   <elementGuidId>e645fff6-7f54-41f2-b38d-e637474ad37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f95417ce-ce50-4d3a-bca2-3bb088a03c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Customize your feed to see relevant peer discussions </value>
+      <webElementGuid>aa0e8965-b07a-428c-9f93-32beb8b4e2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1d2f490 r-u8s1d r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-11yh6sk r-97e31f r-bv2aro r-hxflta r-10xqauy r-1xcajam&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1rnoaur&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/ul[1]/li[3]</value>
+      <webElementGuid>9514c482-b1d5-4742-a0ce-d3c76c2ddad1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/ul/li[3]</value>
+      <webElementGuid>b1c216d4-04ad-46a5-9021-45e94fa4cca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started'])[1]/preceding::li[2]</value>
+      <webElementGuid>de73a6cf-b917-416b-9d6f-ed44b6e5c0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customize your feed to see relevant peer discussions']/parent::*</value>
+      <webElementGuid>b8abd34c-115f-4ae6-86df-bc7a6bf8e9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>d0806e3c-3a20-44a6-b16a-ad65a26731cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Customize your feed to see relevant peer discussions ' or . = ' Customize your feed to see relevant peer discussions ')]</value>
+      <webElementGuid>5758b2d4-4cc8-40d9-923d-2f262c259fb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

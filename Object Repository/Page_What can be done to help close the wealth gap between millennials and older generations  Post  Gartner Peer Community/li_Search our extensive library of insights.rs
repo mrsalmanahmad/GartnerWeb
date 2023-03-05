@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Search our extensive library of insights</name>
+   <tag></tag>
+   <elementGuidId>7b551cae-8749-4e58-9e4f-aad07ee99702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>edb18b2a-545b-44ef-b15b-544bcc99203b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Search our extensive library of insights </value>
+      <webElementGuid>b7221b48-6f9b-4ea1-9edb-3dddf63cd36c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1d2f490 r-u8s1d r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-11yh6sk r-97e31f r-bv2aro r-hxflta r-10xqauy r-1xcajam&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1rnoaur&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>59dfd403-d5e0-4e91-8722-2311d9a9e1a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/ul/li[2]</value>
+      <webElementGuid>484b5b89-338f-4e7d-a5ce-661334416f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with a trusted community of your peers'])[1]/following::li[2]</value>
+      <webElementGuid>a13b9c2a-91ac-4a25-ba77-bec3b39b3d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search our extensive library of insights']/parent::*</value>
+      <webElementGuid>6ca972e9-1713-406d-a9b0-53aca9be8032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>36bf7094-ca18-4bc1-972e-a106ed87601f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Search our extensive library of insights ' or . = ' Search our extensive library of insights ')]</value>
+      <webElementGuid>1afa8f84-558a-4a0c-ac5c-2e293de3110d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

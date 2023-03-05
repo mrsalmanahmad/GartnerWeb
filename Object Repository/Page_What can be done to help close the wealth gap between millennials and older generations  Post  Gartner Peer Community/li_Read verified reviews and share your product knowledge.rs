@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Read verified reviews and share your product knowledge</name>
+   <tag></tag>
+   <elementGuidId>f275a0b1-d1dd-4a7e-a5cf-a2b1ee3ed123</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9ebb423b-c4eb-4cbc-8326-efeb62399aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Read verified reviews and share your product knowledge </value>
+      <webElementGuid>72f21287-a4ae-40d9-8647-c4cef8830a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-6koalj r-13awgt0 r-1pi2tsx r-bnwqim r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1d2f490 r-u8s1d r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-11yh6sk r-97e31f r-bv2aro r-hxflta r-10xqauy r-1xcajam&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1rnoaur&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/ul[1]/li[4]</value>
+      <webElementGuid>2addd384-d03f-48b6-b236-0c2d24cb4244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/ul/li[4]</value>
+      <webElementGuid>55fe58e3-21e5-4436-b314-8b34e6ae8807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started'])[1]/preceding::li[1]</value>
+      <webElementGuid>99d92b13-5ea8-4ce0-b23f-7888725e9838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join / Sign In'])[1]/preceding::li[1]</value>
+      <webElementGuid>3fb42ef8-dc59-491b-8d94-6dd79d629dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Read verified reviews and share your product knowledge']/parent::*</value>
+      <webElementGuid>4146e362-9181-4bea-9737-4d2a4ff6a32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>42a2c994-928f-45d3-93d3-a76970735b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Read verified reviews and share your product knowledge ' or . = ' Read verified reviews and share your product knowledge ')]</value>
+      <webElementGuid>51d8d5d5-cac1-4cd3-ba3c-2cf55eccae04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

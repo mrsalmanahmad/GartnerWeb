@@ -168,5 +168,6 @@
 	<classpathentry kind="lib" path="D:/Katalon_Studio_Windows_64-8.5.0/configuration/plugin/install/202445/1.0.3/calendar-plugin.jar"/>
 	<classpathentry kind="lib" path="D:/Katalon_Studio_Windows_64-8.5.0/configuration/plugin/install/202446/1.0.0/katalon-studio-ashot-plugin.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
